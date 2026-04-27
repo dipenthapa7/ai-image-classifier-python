@@ -24,3 +24,31 @@ This is a beginner-friendly AI image classification project. The app allows user
 
 ```bash
 git clone https://github.com/dipenthapa7/ai-image-classifier-python.git
+
+```
+
+2. Open the project folder:
+
+```bash
+cd ai-image-classifier-python
+```
+
+3. Install required packages:
+
+```bash
+pip install -r requirements.txt
+```
+
+4. Run the app:
+
+```bash
+streamlit run app.py
+```
+
+## Project Status
+
+Completed as a beginner AI/ML practice project.
+
+## Note
+
+This project uses a pre-trained MobileNetV2 model, so it can classify common objects but may not always give perfect results.
